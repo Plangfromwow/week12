@@ -26,3 +26,4 @@ hello();
 setInterval(function () {
     console.log('hello');
 }, 3000);
+// this is all well and everything and it's the only thing we need to take away form this
