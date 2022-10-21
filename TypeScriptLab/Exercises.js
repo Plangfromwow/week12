@@ -24,3 +24,4 @@ nums.forEach(function (num) {
     total = total + num;
 });
 console.log(total);
+console.log("banana");

@@ -30,3 +30,5 @@ nums.forEach((num:number) => {
     total = total + num;
 });
 console.log(total);
+
+console.log("banana")
